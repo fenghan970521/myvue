@@ -3,8 +3,8 @@
     这是首页
     {{count}}
     <p>
-      <button @click="increment">+增加</button>
-      <button @click="decrement">-减少</button>
+      <button @click="increment">+</button>
+      <button @click="decrement">-</button>
     </p>
   </div>
 </template>
